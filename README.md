@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @geadkee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m a 2nd yr degree student of CS specified in Data Analytics.
+- 📫 Reach me at gangeadkee@gmail.com
 
 <!---
 geadkee/geadkee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
