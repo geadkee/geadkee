@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @geadkee
-- 👀 I’m a 2nd yr degree student of CS specified in Data Analytics.
+- 👀 I’m a 3rd yr degree student of CS specified in Data Analytics.
 - 📫 Reach me at gangeadkee@gmail.com
 
 <!---
