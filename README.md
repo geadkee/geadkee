@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @geadkee
-### I’m a 3rd yr degree student of CS specified in Data Analytics, below are the few of my projects :)
+### I’m a QA Engineer currently working in Payments Network Malaysia (PayNet), below are the few of my projects throughout my uni → work days :)
 
 #### Interested for a demo? 
 #### 📫 Reach me at gangeadkee@gmail.com
